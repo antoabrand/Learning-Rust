@@ -1,6 +1,6 @@
 [package]
 name = "hello_cargo"
 version = "0.1.0"
-authors = ["antoabrand <antoabrand@gmail.com>"]
+authors = ["antoabrand <aandrade0205@gmail.com>"]
 
 [dependencies]
